@@ -46,6 +46,9 @@ task-manager-frontend/
 │   └── index.css
 ├── package.json
 ├── craco.config.js
+```
+
+---
 
 ## 🚀 Getting Started
 
@@ -54,3 +57,5 @@ task-manager-frontend/
 ```bash
 git clone https://github.com/harshrief/task-manager-frontend.git
 cd task-manager-frontend
+
+---
